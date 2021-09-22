@@ -1,0 +1,53 @@
+.caja {
+  font-family: 'Antonio', sans-serif;
+  position: relative;
+  margin: 0 auto;
+  width: 300px;
+  height: 200px;
+  border: 4px solid grey;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #87a7b3;
+}
+
+.boton {
+  font-weight: bolder;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  top: 8px; right: 8px;
+  background-color: grey;
+  width: 25px;
+  height: 25px;
+  border-radius: 5px;
+}
+
+.encabezado {
+  padding-top: 55px;
+  padding-left: 20px;
+  display: flex;
+  justify-content: left; 
+  text-decoration: none;
+}
+
+
+.ciudad {
+  font-family: 'Antonio', sans-serif;
+  text-align: left;
+  text-decoration: none;
+  color: #f4f3f3;
+}
+
+.img {
+  position: absolute;
+  bottom: 7px; right: 10px;
+}
+
+.max {
+  padding-left: 25px;
+}
+
+.bold {
+  font-weight: bold;
+}
+

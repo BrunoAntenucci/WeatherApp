@@ -1,0 +1,29 @@
+#logoHenry {
+  margin-right: 50px;
+  padding-left: 50px;
+
+}
+
+#divNav {
+  font-family: 'Antonio', serif;
+  display: flex;
+  justify-content: space-between;
+  background-color: #766161;
+  
+}
+
+#home {
+  padding-left: 4px;
+  font-size: 25px;
+}
+
+.home {
+  color: #f4f3f3;
+  text-decoration: none;
+}
+
+#about{
+  color: #f4f3f3;
+  text-decoration: none;
+  font-size: 25px;
+}
